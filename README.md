@@ -178,15 +178,15 @@ The application predicts:
 
 ## Dashboard
 
-
-![Dashboard](images/dashboard.png)
+[
+![Dashboard](Images/Dashboard.png)]
 
 ---
 
 ## Prediction Results
 
 
-![Prediction](Images/prediction.png)
+![Prediction](Images/Prediction.png)
 
 
 
