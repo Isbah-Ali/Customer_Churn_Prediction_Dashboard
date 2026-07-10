@@ -243,7 +243,6 @@ div[data-baseweb="select"] > div {
 log_reg = joblib.load("Models/Logistic Regression.pkl")
 dt = joblib.load("Models/Decision Tree.pkl")
 rf = joblib.load("Models/Random Forest.pkl")
-svm = joblib.load("Models/Support Vector Machine.pkl")
 nn = joblib.load("Models/Neural Network.pkl")
 
 scaler = joblib.load("Models/scaler.pkl")
@@ -252,8 +251,6 @@ model_columns = joblib.load("Models/columns.pkl")
 models = {
     "Logistic Regression": log_reg,
     "Decision Tree": dt,
-    "Random Forest": rf,
-    "SVM": svm,
     "Neural Network": nn
 }
 
